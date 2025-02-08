@@ -1,5 +1,7 @@
-import java.util.Scanner;
+package ArrayList;
 
+import java.util.Scanner;
+// 숫자의 합 구하기
 public class P11720 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
